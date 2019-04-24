@@ -1,0 +1,5 @@
+numpy==1.14.5
+matplotlib==2.2.2
+python-Levenshtein==0.12.0
+pandas==0.22.0
+sklearn-pandas==1.8.0

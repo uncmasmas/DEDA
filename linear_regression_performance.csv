@@ -1,0 +1,221 @@
+,exercise,precision,recall,f1-score,amount_tested,submission_amount
+1,Descontrolarse,0.50,0.49,0.49,43,107
+2,"validarIguales, sobre validados",0.58,0.65,0.60,48,119
+3,quienesPueden,0.63,0.58,0.59,52,129
+4,Alcohol en Sangre con fold,0.72,0.71,0.71,52,130
+5,positivosYNegativos,0.61,0.52,0.52,60,148
+6,Pedir bebida,0.53,0.57,0.55,60,149
+7,Composción,0.63,0.52,0.52,61,151
+8,validarIguales,0.71,0.70,0.70,66,163
+9,Haciendo functores,0.54,0.58,0.56,66,165
+10,estadisticas,0.51,0.54,0.52,72,178
+11,intersect,0.51,0.51,0.49,80,200
+12,"Generalizando a ap, primera parte",0.69,0.69,0.69,81,202
+13,Minimo Común Múltiplo ¡Con infinitas!,0.53,0.52,0.50,81,202
+14,fuePareja,0.59,0.60,0.58,87,216
+15,filtrar,0.50,0.54,0.52,95,237
+16,aplanar,0.60,0.59,0.56,96,238
+17,head,0.75,0.73,0.72,101,252
+18,"repetirPalabras, variante",0.56,0.55,0.54,102,253
+19,elMasWinner,0.71,0.68,0.69,106,265
+20,elMejorDelTramo,0.67,0.65,0.64,108,270
+21,potenciasDeDos,0.61,0.51,0.44,110,275
+22,cifrasBinarias,0.63,0.63,0.62,116,290
+23,filter,0.64,0.60,0.60,122,305
+24,codigoUnico,0.56,0.64,0.59,125,312
+25,Alto en el camino: sinónimos de tipo,0.94,0.94,0.93,124,309
+26,cifrasBase,0.68,0.66,0.59,127,317
+27,tipos-09 (remix),0.76,0.81,0.75,132,329
+28,elNombreDelMejorSegun,0.67,0.71,0.69,136,340
+29,"Generalizando a ap, cuarta parte",0.56,0.58,0.55,138,345
+30,Multiples generadores,0.67,0.70,0.64,143,357
+31,No todo los que brilla...,0.88,0.88,0.85,155,386
+32,mayorYMenorSegun,0.74,0.72,0.72,166,413
+33,tipos-17,0.61,0.62,0.55,168,418
+34,alVesre,0.49,0.54,0.48,186,464
+35,Un poco de anatomía,0.73,0.72,0.68,187,467
+36,intercalar,0.72,0.76,0.73,190,473
+37,tipos-14,0.82,0.78,0.74,189,472
+38,La Estructura,0.73,0.74,0.72,188,470
+39,zipWith,0.63,0.61,0.60,190,473
+40,"Gran poder, gran responsalibidad",1.00,1.00,1.00,1,2
+41,tipos-18 (triple punto),0.62,0.70,0.64,188,470
+42,tipos-15,0.85,0.83,0.79,194,484
+43,tiempo,0.66,0.63,0.63,202,504
+44,valorMensual,0.70,0.69,0.68,203,507
+45,"totalKilosProductos, de nuevo",0.50,0.50,0.46,204,510
+46,hayAlgunNegativo,0.80,0.81,0.78,207,516
+47,Generalizando a map,0.52,0.58,0.53,211,526
+48,primerosN,0.65,0.59,0.55,223,557
+49,El cuento de la buena pipa,0.45,0.53,0.45,230,575
+50,sinRepetidos,0.52,0.49,0.48,233,581
+51,tipos-05,0.58,0.59,0.47,233,581
+52,tipos-11,0.54,0.64,0.59,235,587
+53,"estaVacio, con data",0.58,0.61,0.58,238,594
+54,Área,0.83,0.82,0.77,244,608
+55,Servicios más complejos,0.49,0.51,0.48,247,616
+56,podio,0.61,0.63,0.62,249,621
+57,tiempoTotal,0.47,0.47,0.44,250,625
+58,menoresA,0.48,0.54,0.47,254,633
+59,tipos-06,0.55,0.46,0.32,254,634
+60,productoria,0.57,0.57,0.55,255,637
+61,maximo,0.50,0.53,0.50,262,655
+62,Primero lo primero: mapeos,0.80,0.77,0.76,262,653
+63,tipos-08,0.53,0.56,0.43,278,694
+64,¡Un mundo nuevo!,0.64,0.63,0.62,277,692
+65,transformadaLoca,0.51,0.51,0.51,282,705
+66,Agregandole azúcar,0.83,0.83,0.82,281,702
+67,elementos3-upla,0.80,0.81,0.79,291,727
+68,repetirPalabras,0.61,0.66,0.63,290,724
+69,parDeFns,0.77,0.75,0.70,300,750
+70,estaVacio,0.57,0.56,0.56,303,756
+71,"¿Y las funciones, para cuándo?",0.59,0.61,0.57,304,758
+72,aprobaron,0.88,0.90,0.88,302,754
+73,promedioSegun,0.49,0.54,0.50,310,775
+74,El caso base,0.53,0.56,0.52,311,777
+75,Cerrando el taller,0.70,0.70,0.70,308,770
+76,hayAlgunMultiploDe,0.53,0.52,0.46,324,809
+77,maximoSegun,0.65,0.67,0.66,324,808
+78,promedioEntero,0.71,0.67,0.65,326,813
+79,fibonacci,0.59,0.52,0.47,327,816
+80,tipos-02,0.86,0.87,0.85,327,816
+81,tipos-13,0.74,0.76,0.75,327,817
+82,tipos-04,0.54,0.58,0.46,338,844
+83,tipos-16,0.75,0.77,0.75,339,846
+84,diferencias,0.52,0.54,0.50,345,861
+85,aplicar2-upla,0.53,0.55,0.48,352,878
+86,¡Terminala! Parte 2,0.64,0.60,0.58,354,884
+87,tipos-03,0.66,0.58,0.48,355,887
+88,"juntarStrings, revisado",0.48,0.49,0.48,380,949
+89,tipos-07,0.78,0.75,0.74,382,954
+90,ciclar,0.65,0.69,0.64,384,960
+91,intersectar,0.66,0.59,0.54,385,962
+92,aplicarPar,0.63,0.63,0.57,397,991
+93,transferirNafta,0.57,0.59,0.57,416,1040
+94,nivelNafta,0.62,0.58,0.57,448,1120
+95,El tipo de filter,0.83,0.77,0.76,452,1130
+96,Cuando los patrones no encajan,0.69,0.66,0.58,453,1131
+97,"Un Saludo Superior, Parte 4",0.86,0.88,0.86,454,1135
+98,La hora del filtro,0.62,0.57,0.55,464,1159
+99,mejoresNotas,0.63,0.66,0.62,469,1172
+100,divisores,0.55,0.55,0.53,472,1178
+101,Pausa: Volvieron los tipos,0.72,0.74,0.71,482,1205
+102,tipos-01,0.72,0.61,0.49,490,1224
+103,sinExtremos,0.62,0.65,0.61,493,1232
+104,"cargarTanque, con data",0.46,0.48,0.46,492,1230
+105,"Autos, con data",0.78,0.76,0.75,507,1266
+106,aprobo,0.62,0.62,0.60,508,1268
+107,contar,0.70,0.71,0.69,512,1279
+108,inversaRaizCuadrada,0.62,0.66,0.62,520,1300
+109,Pattern Matching con Tuplas,0.61,0.62,0.58,522,1303
+110,pertenece,0.52,0.50,0.50,533,1332
+111,interseccion,0.60,0.59,0.55,554,1383
+112,cargarTanque,0.55,0.56,0.52,558,1394
+113,Llamadas,0.58,0.57,0.56,571,1426
+114,contiene,0.82,0.80,0.79,578,1443
+115,Resumir,0.69,0.67,0.66,571,1427
+116,sumaF,0.62,0.63,0.59,586,1463
+117,triple,0.78,0.78,0.69,592,1479
+118,diferencia,0.62,0.61,0.58,598,1494
+119,Rechazar,0.62,0.65,0.61,618,1544
+120,El tipo de map,0.63,0.55,0.49,616,1538
+121,existsAny,0.59,0.56,0.55,629,1571
+122,La historia sin fin,0.60,0.48,0.38,630,1575
+123,siguiente,0.83,0.80,0.73,634,1583
+124,mejor,0.59,0.58,0.55,645,1611
+125,autos,0.70,0.69,0.68,654,1635
+126,Cuántas Muzzas,0.56,0.57,0.56,665,1661
+127,promedios,0.59,0.61,0.60,666,1664
+128,inversa,0.77,0.74,0.66,668,1670
+129,No todo lo que brilla es Oro,0.62,0.61,0.58,668,1668
+130,esNumeroPositivo,0.77,0.79,0.74,670,1673
+131,Otherwise,0.64,0.57,0.53,668,1670
+132,"Aplicación Parcial, Parte 2",0.70,0.74,0.69,668,1668
+133,Guardas: Básico,0.51,0.52,0.44,671,1676
+134,calcular,0.56,0.58,0.54,673,1682
+135,esMayorDeEdad,0.46,0.46,0.39,691,1727
+136,algunosTuits,0.57,0.58,0.53,696,1740
+137,tuplizar,0.48,0.55,0.46,701,1751
+138,rotar,0.75,0.74,0.66,702,1753
+139,area,0.62,0.60,0.54,702,1755
+140,Tipos y Orden Superior,0.74,0.70,0.66,709,1772
+141,Inferencia 2,0.78,0.80,0.77,714,1783
+142,pam,0.50,0.57,0.47,753,1882
+143,juntarStrings,0.65,0.68,0.65,763,1906
+144,Variable Anónima,0.64,0.63,0.59,762,1904
+145,Inferencia 6,0.68,0.66,0.62,796,1990
+146,esPeorSegun,0.57,0.57,0.53,796,1989
+147,Tipando funciones,0.81,0.78,0.76,796,1988
+148,iniciales,0.60,0.64,0.60,802,2005
+149,Iterar,0.63,0.72,0.64,833,2082
+150,armarFixture,0.59,0.63,0.58,850,2123
+151,totalKilosProductos,0.55,0.60,0.53,853,2131
+152,Los booleanos,0.77,0.81,0.76,894,2233
+153,notas,0.63,0.65,0.59,902,2254
+154,Tipando constantes,0.87,0.86,0.86,924,2308
+155,Inferencia 3,0.64,0.58,0.51,928,2319
+156,Inferencia 1,0.67,0.66,0.62,929,2321
+157,Tipando tuplas,0.46,0.48,0.46,933,2331
+158,Más llamadas,0.60,0.62,0.60,992,2478
+159,Dispersión,0.54,0.58,0.54,997,2492
+160,esMultiploDeAlguno,0.60,0.63,0.60,998,2495
+161,Orden de las Condiciones,0.50,0.52,0.44,1010,2523
+162,Inferencia 10,0.71,0.68,0.65,1020,2550
+163,Las Funciones,0.85,0.84,0.82,1030,2575
+164,esCapicua,0.53,0.60,0.54,1033,2581
+165,exists,0.65,0.64,0.61,1042,2604
+166,promedio,0.54,0.61,0.51,1044,2610
+167,Inferencia 11,0.72,0.73,0.70,1054,2634
+168,Tuit corto,0.67,0.69,0.64,1086,2714
+169,Los operadores son funciones,0.58,0.63,0.52,1089,2721
+170,cubo,0.56,0.58,0.49,1107,2767
+171,Triángulos,0.66,0.67,0.63,1148,2870
+172,Múltiples parámetros,0.77,0.76,0.72,1140,2850
+173,fahrToCelsius,0.60,0.55,0.54,1170,2923
+174,celsiusToFahr,0.70,0.64,0.61,1184,2960
+175,darVuelta,0.58,0.56,0.46,1190,2975
+176,Más funciones,0.60,0.64,0.59,1189,2972
+177,"Inferencia y composición, revisada",0.66,0.66,0.63,1208,3018
+178,esResultadoPar,0.46,0.42,0.37,1221,3052
+179,Pinos,0.56,0.59,0.56,1223,3056
+180,Inferencia 8,0.62,0.58,0.54,1240,3098
+181,promediosSinAplazos,0.55,0.61,0.55,1249,3122
+182,Un poco más de inferencia,0.86,0.86,0.84,1245,3112
+183,Los números,0.90,0.89,0.88,1258,3143
+184,Pasan los días,0.62,0.63,0.58,1304,3258
+185,"Un saludo superior, parte 2",0.53,0.56,0.53,1305,3262
+186,Inferencia 4,0.66,0.69,0.62,1382,3453
+187,Valores y variables,0.67,0.75,0.69,1394,3483
+188,Combinando funciones,0.69,0.64,0.57,1414,3534
+189,Más valores,0.89,0.88,0.87,1417,3541
+190,"Un saludo superior, Parte 3",0.74,0.71,0.71,1431,3577
+191,Textos,0.64,0.66,0.62,1448,3619
+192,Juntando todo,0.70,0.67,0.66,1478,3693
+193,cantidadTuitsCortos,0.66,0.68,0.64,1529,3822
+194,Inferencia 7,0.73,0.78,0.71,1550,3875
+195,dispersion,0.52,0.55,0.48,1647,4116
+196,Más composición,0.46,0.57,0.48,1656,4138
+197,Cuánto paga cada uno,0.50,0.55,0.48,1681,4202
+198,"Un saludo superior, Parte 1",0.63,0.58,0.54,1730,4323
+199,esCuadradoPerfecto,0.50,0.48,0.42,1926,4813
+200,Composición,0.59,0.64,0.61,1995,4987
+201,Inferencia 9,0.73,0.74,0.67,2023,5057
+202,Inferencia 5,0.67,0.70,0.66,2034,5083
+203,¡Clases de tipos!,0.54,0.60,0.52,2118,5294
+204,mcm,0.63,0.66,0.61,2122,5303
+205,sumarSegun,0.55,0.63,0.53,2180,5450
+206,dias,0.59,0.62,0.55,2206,5514
+207,El plato fuerte: fold,0.76,0.76,0.71,2243,5607
+208,Recortar tuits,0.64,0.70,0.64,2303,5756
+209,pinos,0.59,0.56,0.54,2332,5829
+210,incrementMCuadradoN,0.44,0.49,0.40,2424,6060
+211,Tipando más funciones,0.58,0.62,0.55,2508,6268
+212,Puntos Para Setenta!,0.63,0.63,0.55,2546,6363
+213,Para cerrar...,0.50,0.52,0.46,3234,8083
+214,haceFrioF,0.47,0.47,0.44,4068,10170
+215,Tipos complicados,0.67,0.72,0.63,4096,10240
+216,esMultiploDe,0.48,0.49,0.46,4616,11540
+217,Más clases de tipos,0.58,0.61,0.58,4735,11836
+218,esMultiploDeTres,0.52,0.52,0.49,5109,12771
+219,Restricciones Múltiples,0.70,0.73,0.65,5146,12865
+220,esBisiesto,0.67,0.70,0.63,8958,22395
