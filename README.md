@@ -1,6 +1,6 @@
 # DEDA
 
-This repo contains all the code necessary to reproduce the work published in "Predicting students' difficulties from a piece of code". It does not contain the dataset used in the paper due to anonymization problems. However, it can be used with a different dataset. The features used and the deep learning architecture should be independent on the programming language used. 
+This repo contains all the code necessary to reproduce the work published in "Predicting students' difficulties from a piece of code". It does not contain the dataset, but we can provide it upon request for research purposes, just contact us (luciana.benotti AT unc.edu.ar). Our code can also be used with a different dataset, we can provide the required details by email. Our experiments are on students learning Haskell but the features used and the deep learning architecture are independent on the programming language of the dataset. 
 
 
 ## How to prepare the env.
