@@ -1,7 +1,6 @@
 # DEDA
 
-This repo contains all DEDA work. This repo is used to keep files safe in case of
-a wild 'rm -rf' appears and to be able to tracking the progress.
+This repo contains all the code necessary to reproduce the work published in "Predicting students' difficulties from a piece of code". It does not contain the dataset used in the paper due to anonymization problems. However, it can be used with a different dataset. The features used and the deep learning architecture should be independent on the programming language used. 
 
 
 ## How to prepare the env.
